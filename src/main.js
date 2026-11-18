@@ -1,4 +1,4 @@
-import './styles.css'
+﻿import './styles.css'
 
 const app = document.querySelector('#app')
 
@@ -328,3 +328,4 @@ document.addEventListener("submit", (event) => {
 
   window.open(url, "_blank");
 }, true);
+
